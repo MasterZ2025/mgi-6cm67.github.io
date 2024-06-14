@@ -1,7 +1,7 @@
 ---
 title: Video Introductorio
 layout: post
-post-image: "assets/images/Video thumbnail.jpg"
+post-image: "https://github.com/CarlosRivera2025/mgi-6cm67.github.io/blob/main/assets/images/Video%20thumbnail.jpg"
 description: 
 tags:
 - video
