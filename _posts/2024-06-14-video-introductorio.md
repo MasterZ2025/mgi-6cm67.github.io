@@ -1,13 +1,12 @@
 ---
-title: Sample Post
+title: Video Introductorio
 layout: post
 post-image: "assets/images/Video thumbnail.jpg"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: 
 tags:
-- sample
+- video
 - post
-- test
+- introduccion
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=p9TlU0nOc0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9TlU0nOc0U?si=fJkMZI3bztJrvTwT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
