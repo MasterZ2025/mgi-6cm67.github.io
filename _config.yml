@@ -7,13 +7,14 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: DLCM
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Transformando ideas con éxito
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Site, Publish, DLCM
+
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,12 +23,12 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
+email: dlcm_publicidad@gmail.com
+facebook_username: DLCM
+twitter_username: DLCM
+instagram_username: DLCM
+linkedin_username: DLCM
+github_username:  DLCM
 youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 reddit_username: /
 behance_username: /
@@ -38,16 +39,16 @@ spotify_username: /
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: DLCM
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: DLCM
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Hola como estas, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/CarlosRivera2025
 
 # SASS
 sass:
