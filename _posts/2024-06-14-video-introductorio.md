@@ -10,4 +10,4 @@ tags:
 - test
 ---
 
-<iframe width="560" height="315" src="https://youtu.be/p9TlU0nOc0U?si=L9srBrzODnvkCX6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=p9TlU0nOc0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
