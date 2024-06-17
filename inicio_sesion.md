@@ -40,8 +40,6 @@ title: Inicio de sesión
                     <p class="forgot"><a href="#">Se te olvidó la contraseña?</a></p>
                     <input type="submit" class="button button-block" value="Iniciar Sesión">
                 </form>
-            </div>
-        </div>
 
    <script src="js/jquery.js"></script>
    <script src="js/main.js"></script>

@@ -67,8 +67,6 @@ layout: page
                     <input type="submit" class="button button-block" value="Registrarse">
                 </form>
             </div>
-        </div>
-    </div>
 
    <script src="js/jquery.js"></script>
    <script src="js/main.js"></script>
