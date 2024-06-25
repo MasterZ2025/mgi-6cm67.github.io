@@ -1,4 +1,4 @@
 ---
 title: Registro
-layout: registro
+layout: aviso
 ---
