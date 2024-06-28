@@ -11,7 +11,7 @@ title: DLCM
 # Description of the Site
 description: Transformando ideas con éxito
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/DLCM Logo.jpg
+site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Publish, DLCM
 
@@ -44,7 +44,7 @@ disqus-shortname: DLCM
 # Name of the Author
 author-name: DLCM
 # URL for the Image of the Author
-author-image: 
+author-image: assets/images/DLCM Logo.jpg
 # 60 Words About the Author
 author-about: Proporcionar soluciones de publicidad, personalizadas que potencian la visibilidad, el compromiso y la rentabilidad de nuestros clientes, a través de estrategias basadas en datos, creatividad y un compromiso inquebrantable con la excelencia en el servicio.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
