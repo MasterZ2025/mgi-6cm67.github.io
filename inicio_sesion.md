@@ -1,5 +1,5 @@
 ---
 layout: login
-title: Inicio de sesión
+title: Acceso
 ---
 
