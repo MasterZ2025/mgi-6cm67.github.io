@@ -9,7 +9,7 @@ layout: compress
 
 <body>
     {% include navbar.html %}
-    {% include search.html %}
+    
     <section class="hero is-fullheight" id="blog">
         <div class="hero-body">
             <div class="container">
@@ -27,7 +27,7 @@ layout: compress
     <!--Footer begins here-->
     {% include footer.html %}
     <script src="{{site.url}}{{site.baseurl}}/assets/js/simple-jekyll-search.js"></script>
-
+    {% include search.html %}
     <script>
         SimpleJekyllSearch({
             searchInput: document.getElementById('search'),
