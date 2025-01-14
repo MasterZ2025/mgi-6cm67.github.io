@@ -135,7 +135,7 @@ main{
 
     .caja__trasera{
         max-width: 350px;
-        height: 300px;
+        height: auto;
         flex-direction: column;
         margin: auto;
     }
