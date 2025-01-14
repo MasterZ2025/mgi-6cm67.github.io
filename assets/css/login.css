@@ -32,6 +32,7 @@ main{
     padding: 10px 20px;
     display: flex;
     justify-content: center;
+    -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
     background-color: rgba(122, 122, 122, 0.5);
 }
@@ -54,9 +55,9 @@ main{
 
 .caja__trasera button{
     padding: 10px 40px;
-    border: 2px solid white;
-    background: transparent;
+    border: 2px solid #fff;
     font-size: 14px;
+    background: transparent;
     font-weight: 600;
     cursor: pointer;
     color: white;
@@ -65,7 +66,7 @@ main{
 }
 
 .caja__trasera button:hover{
-    background: white;
+    background: #fff;
     color: black;
 }
 
@@ -113,8 +114,9 @@ main{
     border: none;
     font-size: 14px;
     background: #7a7a7a;
-    color: white;
+    font-weight: 600;
     cursor: pointer;
+    color: white;
     outline: none;
 }
 
@@ -137,7 +139,7 @@ main{
 
     .caja__trasera{
         max-width: 350px;
-        height: auto;
+        height: 300px;
         flex-direction: column;
         margin: auto;
     }
